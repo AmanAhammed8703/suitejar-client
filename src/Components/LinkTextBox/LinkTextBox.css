@@ -1,0 +1,20 @@
+.background-box{
+    background-color: #86c46cc5;
+    margin: auto;
+    height:550px;
+    width: 60%;
+    margin-top: 6%;
+    border-radius: 15px;
+    padding: 100px 100px;
+}
+.link-box-label{
+    color: white;
+
+}
+.link-box{
+    width: 20%;
+    margin: auto; 
+}
+.insight-button{
+    margin-top: 20px;
+}
